@@ -46,7 +46,7 @@ void loop() {
 
   //LED4
   Serial.println("LED - 4 Nyala");
-  digitalWrite(LED3, HIGH);
+  digitalWrite(LED4, HIGH);
   delay(DELAY);
   digitalWrite(LED4, LOW);
 }
